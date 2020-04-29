@@ -46,6 +46,7 @@ module ReadmooDL
                        'AppleWebKit/537.36 (KHTML, like Gecko) ' \
                        'Chrome/71.0.3578.98 Safari/537.36',
         :'x-requested-with' => 'XMLHttpRequest',
+        :'authorization' => 'bearer x7Hl3ZalitJr-jc2zQb50A',
         :'referer' => 'https://reader.readmoo.com/reader/index.html',
       }
     end
